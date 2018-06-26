@@ -4,4 +4,5 @@
 * `functional river`
 
 
-### \[insert cat gif here\]
+![image](https://user-images.githubusercontent.com/397632/41929478-6479967a-7935-11e8-9591-c5a8a0deaeef.png)
+
